@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T07:34:22.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="pDHE3IsbNYn9NkoepULg" version="13.8.1" type="github"><diagram id="L4PKEd5o5E-ATquU1YXz" name="Page-1">zVhNc9owEP01PoaxLBzgGBPaTtt0mJKZNkeBha2JLXmECNBf35Utf8h2CElDChe0T1pZenraXdvB03T/WZIsvhMhTRzPDfcOvnU8DyHXgz+NHArE9/wCiCQLzaAaWLA/1ICuQbcspBtroBIiUSyzwZXgnK6UhREpxc4ethaJ/dSMRLQDLFYk6aK/WKjiAh17oxr/QlkUl09G15OiJyXlYLOTTUxCsWtAeObgqRRCFa10P6WJJq/kpfD79ExvtTBJuTrFga/vomy9Cu73iNKHn1+J+KWuzOk8kWRrNmwWqw4lA1JseUj1JK6Dg13MFF1kZKV7d3DmgMUqTcBC0DTTUano/tl1omr3IBsqUqrkAYYYh6Hh62Cbu5r9UUlp3GB+6BqQmBOPqplrUqBheHkFR7jDUXD/Yzge/RtTa8HVwviid6ANuTZvCHeJG/fydibahpcnLQ+3OHK7HGHcQ5J3NnGNOizNY2eKncDjkV6EM0NOEDjj2+yy5Iaxb1PpdalEfff0+lxMjl/WG+Xhjc4JYHHBAQxCsolzCpFNF90z9bvRftAsDyB3Febt3rCeG4fS4LAP7XXlDlxIfAYpfFFp1r65ZTnPqWTABpUlGEIyMusXUsUiEpwksxo1t0KPO36QwIPYyhU9QmCZchWREVUv3eyuMhon7/ccfIlJmhDFnuz19qnBPGEuGOykITz7DncCWLFP49XMh+2Jxq1gMGlNVPDQmSgXZ7Xtt+u1pPuYYKFmyHQz3Ue6vBoss5QPDNiUq77KDIqW72RJk7nYMMUEh76lUEqkMCDRHQFZPUZ51JiKRMj8EXid/xpz3CQs0r5K6BBCjLUCOWlZBllDorBLqMNoQ7WB2KqEcTqtyjG3BrUHB0qCzSFdCr128EkZJ4q+U3z3WkeKeoJSjzTRuWISQi+f8UcFJQhBQ9+OSWPfv/iohE8MSsjtl8bHRCXUDiZvjUqeNxlgqGWrH+5Psx8VpE54QXi9gKv0WInYHY2OqxiMjgxrZbsuspWNvOHFK3t4orJH/1PY1TzPZcmT0237/aR9Q86t5O5r3Ld4CwDP6+0bWI0bmGp7MtFfFKraW1vx9tARPiQqZQt8o6R4pGV2NbdhzZKkBXWyajv5piwMc731lfV24W9X9sYuvqMg/33yKm7l1UoUzbzaJ8J2tDohsYJZfxMpDr/+soRnfwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T07:50:13.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="2El83NIgh2TK8ETeLXHs" version="13.8.1" type="github">
+  <diagram id="L4PKEd5o5E-ATquU1YXz" name="Page-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nfMgpfcBTx1eeYRJaoWt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="720" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="nfMgpfcBTx1eeYRJaoWt-3" value="BTN487" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="80" y="50" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nfMgpfcBTx1eeYRJaoWt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="150" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nfMgpfcBTx1eeYRJaoWt-7" value="Phòng họp" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="335" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfMgpfcBTx1eeYRJaoWt-11" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nfMgpfcBTx1eeYRJaoWt-3" target="nfMgpfcBTx1eeYRJaoWt-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="140" as="sourcePoint" />
+            <mxPoint x="229.34000000000003" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfMgpfcBTx1eeYRJaoWt-13" value="Khu nhà Bộ chỉ huy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="320" y="290" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfMgpfcBTx1eeYRJaoWt-10" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;" parent="1" vertex="1">
+          <mxGeometry x="220" y="140" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5uBuFYE0meFkk2QJX2hh-2" value="" style="endArrow=none;dashed=1;html=1;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.119;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nfMgpfcBTx1eeYRJaoWt-10" target="nfMgpfcBTx1eeYRJaoWt-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="190" as="sourcePoint" />
+            <mxPoint x="310" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
